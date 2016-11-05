@@ -1,6 +1,6 @@
 {"tech_jobs":[
 	
-	{"title": "Data Scientist",
+    {"title": "Data Scientist",
     "employer": "AXA Insurance",
     "start_date": "Sep 2016",
     "end_date": "",
@@ -14,7 +14,7 @@
     "achievements": "",
     },
 
-	{"title": "Frontend Developer",
+    {"title": "Frontend Developer",
     "employer": "Furo",
     "start_date": "May 2016",
     "end_date": "August 2016",
@@ -28,7 +28,7 @@
     "achievements": ""
     },
 
-	{"title": "Software Developer",
+    {"title": "Software Developer",
     "employer": "freetobook",
     "start_date": "Oct 2015",
     "end_date": "August 2016",
@@ -42,7 +42,7 @@
     "achievements": ""
     },
 
-	{"title": "Graduate Software Developer",
+    {"title": "Graduate Software Developer",
     "employer": "Stugo",
     "start_date": "Jun 2015",
     "end_date": "Sep 2015",
@@ -56,7 +56,7 @@
     "achievements": ""
     },
 
-	{"title": "Database Developer",
+    {"title": "Database Developer",
     "employer": "STAND International",
     "start_date": "Dec 2014",
     "end_date": "Apr 2014", 
