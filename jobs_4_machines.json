@@ -1,91 +1,98 @@
-{"tech_jobs":[
-	
-    {"title": "Data Scientist",
-    "employer": "AXA Insurance",
-    "start_date": "Sep 2016",
-    "end_date": "",
-    "tech": {"languages":"Python, Pig Latin, SAS, Powershell", 
-    		"frameworks": "Hadoop, Pig, Spark, SAS",
-    		"stack": "Windows-PuTTY-RedHat, Jupyter, Cloudera CDH, HBase",
-    		"tools": "Notepad++, IDLE, Tableau, Hue",
-    		"tracker": "JIRA",
-    		"versioning": "SVN",
-    		"testing": "PigUnit, PyUnit"},
-    "achievements": "",
-    },
-
-    {"title": "Frontend Developer",
-    "employer": "Furo",
-    "start_date": "May 2016",
-    "end_date": "August 2016",
-    "tech": {"languages":"C# (6.0), Typescript, SCSS", 
-    		"frameworks": ".NET, Angular, Highcharts",
-    		"stack": "Windows, Cygwin, Visual Studio, SQL Server",
-    		"tools": "VS, SQL Server, nuGet",
-    		"tracker": "Bitbucket",
-    		"versioning": "Git-Bitbucket",
-    		"testing": "Microsoft Unit Test, Selenium"},
-    "achievements": ""
-    },
-
-    {"title": "Software Developer",
-    "employer": "freetobook",
-    "start_date": "Oct 2015",
-    "end_date": "August 2016",
-    "tech": {"languages": "PHP 5.3, PHP 7, ES6",
-    		"frameworks": "RawPHP, VanillaJS, Laravel",
-    		"stack": "LAMP, Windows-VirtualBox-PuTTY-CentOS, Vagrant, MySQL, New Relic",
-    		"tools": "Atom, PhpStorm, Navicat",
-    		"tracker": "Trello",
-    		"versioning": "Git-Gitlab",
-    		"testing": "PHPUnit"},
-    "achievements": ""
-    },
-
-    {"title": "Graduate Software Developer",
-    "employer": "Stugo",
-    "start_date": "Jun 2015",
-    "end_date": "Sep 2015",
-    "tech": {"languages": "C#, ES2015 (JS), ", 
-    		"framework": "MEAN, node.JS, Ractive, ExpressJS",
-    		"stack": "Visual Studio, SQL Server // Vagrant-Docker, Grunt, npm, Node+V8, MongoDB",
-    		"tools": "VS // Atom, Postman, ChromeTools, Unix",
-    		"tracker": "JIRA",
-    		"versioning": "Git-JIRA",
-    		"testing": "Mocha"},
-    "achievements": ""
-    },
-
-    {"title": "Database Developer",
-    "employer": "STAND International",
-    "start_date": "Dec 2014",
-    "end_date": "Apr 2014", 
-    "tech": {"languages" : "SQL, UML", 
-    		"stack" : "MS Access, Sharepoint, Postgres",
-    		"tools" : "MS Access, Postgres",
-    		"tracker" : "",
-    		"versioning" : "",
-    		"testing" : ""},
-    "achievements": ""
-    },
-
-    {"title": "Assistant Statistician",
-    "employer": "The Scottish Government",
-    "start_date": "Jan 2014",
-    "end_date": "Apr 2014",
-    "tech": {"languages":"SQL, SAS", 
-    		"framework": "SAS",
-    		"stack": "Windows, SAS BI Server",
-    		"tools": "SAS Server, Excel",
-    		"tracker": "",
-    		"versioning": "",
-    		"testing": ""
-    		},
-    "achievements": ""
-    }
-    
-]}
-
-
-
-
+{
+   "tech_jobs":[
+      {
+         "title": "Data Scientist",
+         "employer": "AXA Insurance",
+         "start_date": "Sep 2016",
+         "tech": {
+            "languages": "Python, Pig Latin, SAS, Powershell",
+            "frameworks": "Hadoop, Pig, Spark, Tez",
+            "stack": "Windows-PuTTY-RedHat, JupyterHub, Cloudera CDH, Oozie",
+            "tools": "Notepad++, IDLE, Tableau, Hue, Avro",
+            "tracker": "",
+            "versioning":"SVN",
+            "testing":"PigUnit"
+         },
+         "achievements": "Machine learning engineering. Production code in 3 new languages (Python, Pig, ) and several new frameworks (Spark). Frequent two-way translation for business. Only coder in the team, picked up web scraping, automation, interviewing, ML duties."
+      },
+      {
+         "title":"Frontend Developer",
+         "employer":"Furo",
+         "start_date":"May 2016",
+         "end_date":"August 2016",
+         "tech": {
+            "languages":"C# (6.0), Typescript, SCSS",
+            "frameworks":".NET, Angular, Highcharts",
+            "stack":"Windows, Cygwin, Visual Studio, SQL Server",
+            "tools":"VS, SQL Server, nuGet",
+            "tracker":"Bitbucket",
+            "versioning":"Git-Bitbucket",
+            "testing":"Microsoft Unit Test, Selenium"
+         },
+         "achievements": "Production code in a newish language, Typescript, a new framework, Angular, and a new focus, front-end. Entirely remote work, self-directed from high-level requirements."
+      },
+      {
+         "title":"Software Developer",
+         "employer":"freetobook",
+         "start_date":"Oct 2015",
+         "end_date":"July 2016",
+         "tech": {
+            "languages":"PHP 5.3, PHP 7, ES6",
+            "frameworks":"RawPHP, VanillaJS, Laravel",
+            "stack":"LAMP, Windows-VirtualBox-PuTTY-CentOS, Vagrant, MySQL, New Relic",
+            "tools":"Atom, PhpStorm, Navicat",
+            "tracker":"Trello",
+            "versioning":"Git-Gitlab",
+            "testing":"PHPUnit"
+         },
+         "achievements": "Production code in a new language, PHP. Intro to the care and feeding of legacy systems. Handled development of credit-card storage API, from docs to deployment to user feedback. "
+      },
+      {
+         "title":"Graduate Software Developer",
+         "employer":"Stugo",
+         "start_date":"Jun 2015",
+         "end_date":"Sep 2015",
+         "tech": {
+            "languages":"C#, ES2015 (JS), ",
+            "framework":"MEAN, node.JS, Ractive, ExpressJS",
+            "stack":"Visual Studio, SQL Server // Vagrant-Docker, Grunt, npm, Node+V8, MongoDB",
+            "tools":"VS // Atom, Postman, ChromeTools, Unix",
+            "tracker":"JIRA",
+            "versioning":"Git-JIRA",
+            "testing":"Mocha"
+         },
+         "achievements": "Production code in two new languages, C# and JS. Into web dev from scratch. Handling the VS ecology."
+      },
+      {
+         "title":"Database Developer",
+         "employer":"STAND International",
+         "start_date":"Dec 2014",
+         "end_date":"Apr 2014",
+         "tech": {
+            "languages":"SQL, UML",
+            "stack":"MS Access, Sharepoint, Postgres",
+            "tools":"MS Access, Postgres",
+            "tracker":"",
+            "versioning":"",
+            "testing":""
+         },
+         "achievements": "Navigating the hyped and vexed world of enterprise computing for a small charity. Ended up boosting them a free MS stack, Office365 and Access."
+      },
+      {
+         "title":"Assistant Statistician",
+         "employer":"The Scottish Government",
+         "start_date":"Jan 2014",
+         "end_date":"Apr 2014",
+         "tech": {
+            "languages":"SQL, SAS",
+            "framework":"SAS",
+            "stack":"Windows, SAS BI Server",
+            "tools":"SAS Server, Excel",
+            "tracker":"",
+            "versioning":"",
+            "testing":""
+         },
+         "achievements": "Into programming from scratch, debugging an education tarriff point app in SAS/SQL."
+      }
+   ]
+}
