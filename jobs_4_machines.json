@@ -5,7 +5,7 @@
          "employer": "AXA Insurance",
          "start_date": "Sep 2016",
          "tech": {
-            "languages": "Python, Pig Latin, SAS, Powershell",
+            "languages": "Python, Pig Latin, SAS, bash, Powershell",
             "frameworks": "Hadoop, Pig, Spark, Tez",
             "stack": "Windows-PuTTY-RedHat, JupyterHub, Cloudera CDH, Oozie",
             "tools": "Notepad++, IDLE, Tableau, Hue, Avro",
@@ -13,7 +13,7 @@
             "versioning":"SVN",
             "testing":"PigUnit"
          },
-         "achievements": "Machine learning engineering. Production code in 3 new languages (Python, Pig, ) and several new frameworks (Spark). Frequent two-way translation for business. Only coder in the team, picked up web scraping, automation, interviewing, ML duties."
+         "achievements": "Production code in 3 new languages (Python, Pig, Powershell) and several new frameworks (Spark). While awaiting provisioning, I wrote half a Python data munging library and learned Powershell. Lots of bash data science too. Lots of *nix data science. Frequent two-way translation of systems for business & business for systems. Only coder in the team, picking up web scraping, mini-apps like Gmaps and Gsheets integration, automation, third-party software evaluation, technical interviewing, ML duties."
       },
       {
          "title":"Frontend Developer",
